@@ -1,6 +1,6 @@
 # sound_source_tracking_PPO
 ---
-Tracking sound source via Proximal Policy Optimization. Undergoing PAKDD 2023 review process. After the review process, it will be released to the public. This repository is anonymized by https://anonymous.4open.science/. 
+Tracking sound source via Proximal Policy Optimization.
 
 Dependency
 ---
